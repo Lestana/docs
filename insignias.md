@@ -1,10 +1,8 @@
+---
+description: '¡En esta página se detallan las Insignias, algunas las puedes conseguir!'
+---
+
 # Insignias
-
-¡En esta página se detallan las Insignias, algunas las puedes conseguir!
-
-{% hint style="danger" %}
-Las insignia todavía **NO** se desarrollan.
-{% endhint %}
 
 ### ¿Qué insignias existen?
 
@@ -16,6 +14,10 @@ Aquí hay una lista de todas las insignias:
 * Soporte
 * Traductor
 * Donador
+
+{% hint style="danger" %}
+Las insignia todavía **NO** se desarrollan.
+{% endhint %}
 
 ### Insignia Desarrollador
 
