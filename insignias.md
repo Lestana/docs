@@ -6,6 +6,23 @@ description: >-
 
 # Insignias
 
+### ¿Qué insignias existen?
+
+Aquí hay una lista de todas las insignias:
+
+* Desarrollador
+* Administrador
+* Moderador
+* Soporte
+* Traductor
+* Donador
+
+### Insignia Desarrollador
+
+Insignia de desarrollador sólo la tienen aquellos que trabajan en Lestana.
+
+![](.gitbook/assets/badge-developers.png)
+
 ## Insignia Donador
 
 Insignia exclusiva para quienes han donado un poco, para que Lestana siga viva.
