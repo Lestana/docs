@@ -1,10 +1,12 @@
 ---
-description: >-
-  ¡En esta página se detallan las Medallas o Insignias, algunas las puedes
-  conseguir!
+description: '¡En esta página se detallan las Insignias, algunas las puedes conseguir!'
 ---
 
 # Insignias
+
+{% hint style="danger" %}
+Las insignia todavía **NO** se desarrollan.
+{% endhint %}
 
 ### ¿Qué insignias existen?
 
