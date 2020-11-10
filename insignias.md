@@ -10,5 +10,5 @@ description: >-
 
 Insignia exclusiva para quienes han donado un poco, para que Lestana siga viva.
 
-![Lestana Badge - Donator](.gitbook/assets/badge-donator.png)
+![](.gitbook/assets/badge-donator.png)
 
