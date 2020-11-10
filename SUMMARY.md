@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Lestana \| Discord Bot](README.md)
 
