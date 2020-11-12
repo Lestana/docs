@@ -14,11 +14,15 @@
 {% endtab %}
 
 {% tab title="Cambios" %}
-
+{% hint style="info" %}
+No se realizaron cambios.
+{% endhint %}
 {% endtab %}
 
 {% tab title="Arreglos" %}
-
+{% hint style="info" %}
+No se realizaron arreglos.
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
