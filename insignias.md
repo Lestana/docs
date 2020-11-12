@@ -16,7 +16,7 @@ Aquí hay una lista de todas las insignias:
 * Donador
 
 {% hint style="danger" %}
-Las insignia todavía **NO** se desarrollan.
+Las insignias todavía **NO** se desarrollan.
 {% endhint %}
 
 ### Insignia Desarrollador <a id="insignia-desarrollador"></a>
