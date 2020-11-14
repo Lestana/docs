@@ -11,6 +11,7 @@
 * [Sistema de Bienvenidas](configuracion/sistema-de-bienvenidas.md)
 * [Sistema de Sugerencias](configuracion/sistema-de-sugerencias.md)
 * [Sistema de Niveles](configuracion/sistema-de-niveles.md)
+* [Sistema de Registros](configuracion/sistema-de-registros.md)
 
 ## Ayuda
 
