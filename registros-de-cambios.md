@@ -1,16 +1,35 @@
 # Registros de cambios
 
+### 0.5.4 - Noviembre 13, 2020
+
+{% tabs %}
+{% tab title="Agregado" %}
+* Se creó el comando **versus** \(¿Quién contra quién?\)
+* Se creó el comando **crush** \(Recordando a tu crush\)
+* Se creó el comando **whowouldwin** \(¿Quién es mejor que quién?\)
+* Se creó el comando **clyde** \(Clyde bot\)
+{% endtab %}
+
+{% tab title="Cambios" %}
+{% hint style="info" %}
+No se realizaron cambios.
+{% endhint %}
+{% endtab %}
+
+{% tab title="Arreglos" %}
+{% hint style="info" %}
+No se realizaron arreglos.
+{% endhint %}
+{% endtab %}
+{% endtabs %}
+
 ### 0.5.3 - Noviembre 11, 2020
 
 {% tabs %}
 {% tab title="Agregado" %}
-* Se creó el comando **enable.** \(Activa comandos y sistemas, por defecto ya estarán activados\)
-* Se creó el comando **disable**. \(Desactiva comandos y sistemas\)
-* Se creó el comando **setwelcome** \(Configuración de bienvenida y despedidas\)
 * Se creó el comando **bugreport** \(Reporta algún bug de **Lestana**\)
+* Se creó el comando **welcomelog** \(Un registro de usuarios que entran y salen\)
 * Se creó un **sistema de sugerencias** \(Solo el comando **suggest** será para administradores\)
-
-\*\*\*\*
 {% endtab %}
 
 {% tab title="Cambios" %}
