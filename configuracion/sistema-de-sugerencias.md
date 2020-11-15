@@ -20,7 +20,7 @@ Como en esta imagen:
 
 ### ¿Cómo puedo saber si funciona?
 
-Para saber si funciona el sistema de sugerencias escriba un texto con más de 15 caracteres en el canal que ha establecido.
+Para saber si funciona el sistema de sugerencias escriba un texto con más de 15 caracteres en el canal que ha establecido. No es necesario ningún comando, con tan solo escribir un texto el bot lo tomará y lo escribirá en un embed.
 
 ![](../.gitbook/assets/suggestion.png)
 
