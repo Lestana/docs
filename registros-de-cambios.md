@@ -1,5 +1,27 @@
 # Registros de cambios
 
+### 0.5.5 - Noviembre 14, 2020
+
+{% tabs %}
+{% tab title="Agregado" %}
+* Se creó el comando **enable** \(Solo se puede activar el registro de bienvenida, por ahora\)
+* Se creó el comando **disable** \(Solo se puede desactivar el registro de bienvenida, por ahora\)
+* Se creó el comando **timezone** \(Establece la zona horaria del bot en tu servidor\)
+{% endtab %}
+
+{% tab title="Cambios" %}
+{% hint style="info" %}
+No se realizaron cambios.
+{% endhint %}
+{% endtab %}
+
+{% tab title="Arreglos" %}
+{% hint style="info" %}
+No se realizaron arreglos.
+{% endhint %}
+{% endtab %}
+{% endtabs %}
+
 ### 0.5.4 - Noviembre 13, 2020
 
 {% tabs %}
