@@ -9,8 +9,8 @@
 {% endtab %}
 
 {% tab title="Cambios" %}
-* Se cambió la forma de habilitar un modulo/comando/sistema \(--m \| --c \| --s\)
-* Se cambió la forma de des-habilitar un modulo/comando/sistema \(--m \| --c \| --s\)
+* Se cambió la forma de habilitar un **modulo**/**comando**/**sistema** \(--m \| --c \| --s\)
+* Se cambió la forma de des-habilitar un **modulo**/**comando**/**sistema** \(--m \| --c \| --s\)
 {% endtab %}
 
 {% tab title="Arreglos" %}
