@@ -9,11 +9,9 @@ description: '¡En esta página se detallan las Insignias, algunas las puedes co
 Aquí hay una lista de todas las insignias:
 
 * Desarrollador
-* Administrador
-* Moderador
 * Soporte
-* Traductor
 * Donador
+* Traductor
 
 {% hint style="danger" %}
 Las insignias todavía **NO** se desarrollan.
@@ -26,6 +24,12 @@ Las insignias todavía **NO** se desarrollan.
 Insignia de desarrollador sólo la tienen aquellos que trabajan en Lestana.
 
 ![](.gitbook/assets/badge-developers.png)
+{% endtab %}
+
+{% tab title="Soporte" %}
+### Insignia Soporte <a id="insignia-desarrollador"></a>
+
+Insignia de soporte solo para aquellos que sean parte del Soporte del Lestana
 {% endtab %}
 
 {% tab title="Donador" %}
