@@ -1,5 +1,24 @@
 # Registros de cambios
 
+### 0.5.6 - Noviembre 18, 2020
+
+{% tabs %}
+{% tab title="Agregado" %}
+* Se creó el comando **addcommands** \(Crea tus propios comandos para obtener información\)
+* Se creó el comando **deletecommands** \(Elimina los comandos que has creado\)
+{% endtab %}
+
+{% tab title="Cambios" %}
+{% hint style="info" %}
+No se realizaron cambios.
+{% endhint %}
+{% endtab %}
+
+{% tab title="Arreglos" %}
+* Se arregló el comando **timezone** \(No podía establecer la zona horaria\).
+{% endtab %}
+{% endtabs %}
+
 ### 0.5.5 - Noviembre 14, 2020
 
 {% tabs %}
